@@ -5,8 +5,7 @@ v       - vibrate
 mv      - set max volume
 gps     - send to gmail device location
 ui      - uninstall app
-vron    - start video recording
-sroff   - stop video recording and send it...
+vr      - start video recording
 poop1   - play sound 1
 poop2   - play sound 2
 poop3   - play sound 3
