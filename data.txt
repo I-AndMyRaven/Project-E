@@ -7,10 +7,11 @@
 5       - send to gmail device location
 6       - uninstall app
 7       - start video recording
+7       - stop video recording
 poop1   - play sound 1
 poop2   - play sound 2
 poop3   - play sound 3
 =======================================================
 
-98:F1:70:8B:9D:0D=7 (eli)
+98:F1:70:8B:9D:0D=8 (eli)
 d0:51:62:e6:ed:bb=0 (david)
