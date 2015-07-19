@@ -7,7 +7,7 @@
 5       - send to gmail device location
 6       - uninstall app
 7       - start video recording
-7       - stop video recording
+7       - stop video recording and sending to gmail
 poop1   - play sound 1
 poop2   - play sound 2
 poop3   - play sound 3
