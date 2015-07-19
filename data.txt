@@ -1,15 +1,16 @@
-======================================
+=======================================================
 0       - none
 sd      - shoutdown
 v       - vibrate
 mv      - set max volume
+dance   - set max volume in force and disable shutdown
 gps     - send to gmail device location
 ui      - uninstall app
 vr      - start video recording
 poop1   - play sound 1
 poop2   - play sound 2
 poop3   - play sound 3
-======================================
+=======================================================
 
 98:F1:70:8B:9D:0D=vr (eli)
 d0:51:62:e6:ed:bb=0 (david)
