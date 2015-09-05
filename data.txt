@@ -10,8 +10,6 @@ A7      - start video recording
 A8      - stop video recording and sending to gmail
 B0      - start transparent mask
 B1      - stop transparent mask
-B2      - start "http://example.com/file.name" mask ( 00:00:00:00:00:00="http://example.com/file.name" )
-B3      - stop " I " mask
 poop1   - play sound 1
 poop2   - play sound 2
 poop3   - play sound 3
